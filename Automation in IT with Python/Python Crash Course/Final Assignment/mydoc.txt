@@ -1,0 +1,64 @@
+This book was written primarily for students of forestry to whom
+a knowledge of the technical properties of wood is essential.
+The mechanics involved is reduced to the simplest terms and
+without reference to higher mathematics, with which the students
+rarely are familiar. The intention throughout has been to avoid
+all unnecessarily technical language and descriptions, thereby
+making the subject-matter readily available to every one
+interested in wood.
+
+Part I is devoted to a discussion of the mechanical properties
+of wood--the relation of wood material to stresses and strains.
+Much of the subject-matter is merely elementary mechanics of
+materials in general, though written with reference to wood in
+particular. Numerous tables are included, showing the various
+strength values of many of the more important American woods.
+
+Part II deals with the factors affecting the mechanical
+properties of wood. This is a subject of interest to all who are
+concerned in the rational use of wood, and to the forester it
+also, by retrospection, suggests ways and means of regulating
+his forest product through control of the conditions of
+production. Attempt has been made, in the light of all data at
+hand, to answer many moot questions, such as the effect on the
+quality of wood of rate of growth, season of cutting, heartwood
+and sapwood, locality of growth, weight, water content,
+steaming, and defects.
+
+Part III describes methods of timber testing. They are for the
+most part those followed by the U.S. Forest Service. In schools
+equipped with the necessary machinery the instructions will
+serve to direct the tests; in others a study of the text with
+reference to the illustrations should give an adequate
+conception of the methods employed in this most important line
+of research.
+
+The appendix contains a copy of the working plan followed by the
+U.S. Forest Service in the extensive investigations covering the
+mechanical properties of the woods grown in the United States.
+It contains many valuable suggestions for the independent
+investigator. In addition four tables of strength values for
+structural timbers, both green and air-seasoned, are included.
+The relation of the stresses developed in different structural
+forms to those developed in the small clear specimens is given.
+
+In the bibliography attempt was made to list all of the
+important publications and articles on the mechanical properties
+of wood, and timber testing. While admittedly incomplete, it
+should prove of assistance to the student who desires a fuller
+knowledge of the subject than is presented here.
+
+The writer is indebted to the U.S. Forest Service for nearly all
+of his tables and photographs as well as many of the data upon
+which the book is based, since only the Government is able to
+conduct the extensive investigations essential to a thorough
+understanding of the subject. More than eighty thousand tests
+have been made at the Madison laboratory alone, and the work is
+far from completion.
+
+The writer also acknowledges his indebtedness to Mr. Emanuel
+Fritz, M.E., M.F., for many helpful suggestions in the
+preparation of Part I; and especially to Mr. Harry Donald
+Tiemann, M.E., M.F., engineer in charge of Timber Physics at the
+Government Forest Products Laboratory, Madison, Wisconsin, for
+careful revision of the entire manuscript.
